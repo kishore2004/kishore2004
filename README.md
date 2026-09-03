@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kishore V 👋
 
-<!--
-**kishore2004/kishore2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm growing my skills through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a strong foundation in Git and GitHub
+- Writing clean, practical code
+- Turning ideas into small, useful projects
+
+## 🛠️ What I'm working on
+
+- [github-learning](https://github.com/kishore2004/github-learning) — my learning playground for GitHub workflows and coding practice.
+
+## 🎯 Goals
+
+- Create projects I can be proud to share
+- Collaborate with other developers
+- Keep learning something new every day
+
+## 📫 Let's connect
+
+Feel free to explore my repositories or reach out through GitHub.
+
+---
+
+_Thanks for stopping by!_
